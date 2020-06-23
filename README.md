@@ -3,4 +3,6 @@ This repository has my solutions (in Java) to the CSES problemset. I keep updati
 
 This problemset is a fantastic way to practice and become better at Competitive Programming.
 
+My handle on all CP platforms - <i>kabirkanha</i>
+
 Link to problemset - https://cses.fi/problemset/
